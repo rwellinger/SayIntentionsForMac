@@ -1,2 +1,2 @@
 start X-Plane.exe
-sudppipe.exe 10.0.2.2 49000 49000
+sudprelay.exe -p -q -t 300 10.0.1.120 49000 49000
